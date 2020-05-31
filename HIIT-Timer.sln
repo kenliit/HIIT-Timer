@@ -10,6 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScreenShorts", "ScreenShort
 		Screenshots\1.png = Screenshots\1.png
 		Screenshots\2.png = Screenshots\2.png
 		Screenshots\3.png = Screenshots\3.png
+		Screenshots\4.png = Screenshots\4.png
 	EndProjectSection
 EndProject
 Global
