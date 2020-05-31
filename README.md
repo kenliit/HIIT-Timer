@@ -1,2 +1,2 @@
-# HIT-Timer
-A Timer for HIT players
+# HIIT-Timer
+A Timer for HIIT players
