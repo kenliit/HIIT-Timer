@@ -250,7 +250,7 @@ namespace HIIT.ViewModels
         {
             if (newVal > 0 && _allowSave) // one of the settings has been changed
             {
-                _settings.SaveConfig();
+                SaveConfig();
                 newVal = 0;
             }
         }
