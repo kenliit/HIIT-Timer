@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIIT", "HIIT\HIIT.csproj", "{2E458111-ED72-4A4A-9F4C-2FE03A68A8B7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScreenShorts", "ScreenShorts", "{DAA4D122-3076-46E8-9869-D03E3221A298}"
+	ProjectSection(SolutionItems) = preProject
+		Screenshots\1.png = Screenshots\1.png
+		Screenshots\2.png = Screenshots\2.png
+		Screenshots\3.png = Screenshots\3.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
